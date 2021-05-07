@@ -1,0 +1,2 @@
+# linting
+eslint / jslint / tslint
